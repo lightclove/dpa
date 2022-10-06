@@ -1,2 +1,2 @@
 # dpa
-Distributed Python Interaction Framework (v2.7, in loving memories)
+Distributed Python Interaction via XML-RPC tech (v2.7, in loving memories)
